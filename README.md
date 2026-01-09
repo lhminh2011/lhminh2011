@@ -1,4 +1,7 @@
 ## Hi there 👋
+git add .
+git commit -m "Update profile README"
+git push origin main
 
 <!--
 **lhminh2011/lhminh2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
